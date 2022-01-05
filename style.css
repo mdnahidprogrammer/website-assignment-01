@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+
+p {
+    font-size: 17px;
+    color: #3D3D3D;
+}
+
+.header-part {
+    display: flex;
+    margin-bottom: 200px;
+    height: 100vh;
+    background-color: rgb(249, 255, 255);
+}
+
+.first-header {
+    width: 38%;
+    margin: 0 6%;
+    padding-top: 180px;
+}
+
+.first-header h1 {
+    font-size: 80px;
+    font-weight: 500;
+    color: #3d3d3d;
+    line-height: 90px;
+    letter-spacing: 4px;
+    font-family: 'Yeseva One', cursive;
+    border-left: 5px solid #b7f4ff;
+    padding: 0 0 0 10px;
+}
+
+.headh-clr {
+    color: #DFC3A3;
+}
+
+.first-header p {
+    margin: -20px 0 35px -20px;
+}
+
+.btn {
+    text-decoration: none;
+    color: #3D3D3D;
+    background-color: #b7f4ff;
+    padding: 10px 25px;
+    font-weight: 600;
+    border-radius: 20px 5px;
+}
+
+#pdown {
+    margin-top: 50px;
+}
+
+.first-header img {
+    width: 80%;
+    padding: 0 50px;
+}
+
+.mission-part {
+    margin-bottom: 200px;
+}
+
+.mission-part h2 {
+    text-align: center;
+}
+
+.mission-divi {
+    display: flex;
+    margin: 0 5%;
+    margin-top: 100px;
+}
+
+.mission-illus {
+    width: 31%;
+    margin: 0 1%;
+    padding: 15px 30px;
+    background-color: #ffffff;
+    border-radius: 80px 20px;
+    box-shadow: 2px 3px 15px #1b1b1b23;
+    border: 1px solid #b7f4ff;
+}
+
+.mission-illus h3 {
+    font-size: 25px;
+}
+
+.mission-illus h3,
+p {
+    padding: 0 20px;
+}
+
+.mission-illus img {
+    width: 40%;
+}
+
+.develop-part {
+    display: flex;
+    margin: 0 6%;
+    margin-bottom: 200px;
+}
+
+.develop-divi {
+    width: 50%;
+}
+
+.develop-divi img {
+    width: 60%;
+    padding-left: 100px;
+}
+
+.develop-divi p {
+    margin-left: -18px;
+    margin-bottom: 35px;
+    margin: 0 0 35px -18px;
+}
+
+.know-our-part {
+    display: flex;
+    margin: 0 6%;
+    margin-bottom: 200px;
+}
+
+.know-our-first,
+.know-our-second {
+    width: 50%;
+}
+
+.know-our-first {
+    padding-left: 100px;
+}
+
+.know-our-first p {
+    margin-left: -18px;
+    margin-bottom: 35px;
+    margin: 0 0 35px -18px;
+}
+
+.know-our-second img {
+    width: 60%;
+    padding-left: 150px;
+}
