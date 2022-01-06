@@ -147,3 +147,52 @@ p {
     width: 60%;
     padding-left: 150px;
 }
+
+.blog-part {
+    margin-bottom: 200px;
+    height: 100vh;
+    background-color: rgb(249, 255, 255);
+}
+
+.blog-part h2 {
+    text-align: center;
+}
+
+.blog-divi {
+    display: flex;
+    margin: 0 5%;
+    margin-top: 100px;
+}
+
+.blog-illus {
+    width: 20%;
+    margin: 0 2%;
+    padding: 45px 30px;
+    background-color: #ffffff;
+    border-radius: 20px 20px 60px 60px;
+    box-shadow: 2px 3px 15px #1b1b1b23;
+    border: 1px solid #b7f4ff;
+}
+
+.blog-illus h3 {
+    font-size: 25px;
+}
+
+.blog-illus h3,
+p {
+    padding: 0 20px;
+}
+
+.blog-illus img {
+    width: 100%;
+    border: 5px solid #b7f4ff;
+    border-radius: 20px 20px 60px 60px;
+}
+
+.btn-blog {
+    text-decoration: none;
+    background-color: #b7f4ff;
+    margin-left: 20px;
+    padding: 5px 20px;
+    border-radius: 5px 5px 15px 15px;
+}
