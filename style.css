@@ -7,6 +7,7 @@ body {
 h2 {
     font-size: 50px;
     letter-spacing: 1px;
+    color: #3D3D3D;
 }
 
 p {
@@ -90,6 +91,7 @@ p {
 
 .mission-illus h3 {
     font-size: 25px;
+    color: #3D3D3D;
 }
 
 .mission-illus h3,
@@ -149,7 +151,6 @@ p {
 }
 
 .blog-part {
-    margin-bottom: 200px;
     height: 100vh;
     background-color: rgb(249, 255, 255);
 }
@@ -176,6 +177,7 @@ p {
 
 .blog-illus h3 {
     font-size: 25px;
+    color: #3D3D3D;
 }
 
 .blog-illus h3,
@@ -195,4 +197,20 @@ p {
     margin-left: 20px;
     padding: 5px 20px;
     border-radius: 5px 5px 15px 15px;
+}
+
+footer {
+    background-color: #3D3D3D;
+    padding: 15px 0;
+}
+
+footer h2 {
+    font-family: 'Yeseva One', cursive;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    text-align: center;
 }
