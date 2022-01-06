@@ -44,7 +44,7 @@ p {
 }
 
 .first-header p {
-    margin: -20px 0 35px -20px;
+    margin: -20px 0 35px -15px;
 }
 
 .btn {
@@ -82,7 +82,7 @@ p {
 .mission-illus {
     width: 31%;
     margin: 0 1%;
-    padding: 15px 30px;
+    padding: 15px 20px;
     background-color: #ffffff;
     border-radius: 80px 20px;
     box-shadow: 2px 3px 15px #1b1b1b23;
@@ -92,6 +92,7 @@ p {
 .mission-illus h3 {
     font-size: 25px;
     color: #3D3D3D;
+    margin-left: -5px;
 }
 
 .mission-illus h3,
@@ -107,6 +108,10 @@ p {
     display: flex;
     margin: 0 6%;
     margin-bottom: 200px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px;
 }
 
 .develop-divi {
@@ -121,13 +126,17 @@ p {
 .develop-divi p {
     margin-left: -18px;
     margin-bottom: 35px;
-    margin: 0 0 35px -18px;
+    margin: 0 0 35px -15px;
 }
 
 .know-our-part {
     display: flex;
     margin: 0 6%;
     margin-bottom: 200px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px;
 }
 
 .know-our-first,
@@ -142,7 +151,7 @@ p {
 .know-our-first p {
     margin-left: -18px;
     margin-bottom: 35px;
-    margin: 0 0 35px -18px;
+    margin: 0 0 35px -15px;
 }
 
 .know-our-second img {
@@ -168,7 +177,7 @@ p {
 .blog-illus {
     width: 20%;
     margin: 0 2%;
-    padding: 45px 30px;
+    padding: 45px 20px;
     background-color: #ffffff;
     border-radius: 20px 20px 60px 60px;
     box-shadow: 2px 3px 15px #1b1b1b23;
@@ -182,7 +191,7 @@ p {
 
 .blog-illus h3,
 p {
-    padding: 0 20px;
+    padding: 0 15px;
 }
 
 .blog-illus img {
